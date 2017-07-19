@@ -9,5 +9,5 @@ Awesome resources
 + [F# Azure Functions run locally](http://brandewinder.com/2017/06/01/azure-functions-local-development-with-fsharp-scripts/)
 
 ##  F#
-
++ [10 F# scripting tips](http://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/)
 + [Sample of debugging F# projects in VSCode](https://github.com/ionide/DebugSample)
