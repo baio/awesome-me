@@ -10,4 +10,4 @@ Awesome resources
 
 ##  F#
 
-+ [Debug F# locally](https://github.com/ionide/DebugSample)
++ [Sample of debugging F# projects in VSCode](https://github.com/ionide/DebugSample)
