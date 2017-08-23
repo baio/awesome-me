@@ -16,3 +16,9 @@ Awesome resources
 + [Apoll GrapQL tools](http://dev.apollodata.com/tools/graphql-tools/index.html)
 + [GraphQL + typescript interfaces](https://dev-blog.apollodata.com/getting-started-with-typescript-and-apollo-a9aa2c7dcf87)
 + [GraphQL + typescript tools](https://dev-blog.apollodata.com/graphql-dx-d35bcf51c943)
+
+## Angular
+
++ [Elm SubActions + SubResucers](https://www.elm-tutorial.org/en/03-subs-cmds/02-commands.html)
++ [rxjs](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
++ [ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/)
