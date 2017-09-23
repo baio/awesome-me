@@ -2,6 +2,10 @@
 
 Awesome resources
 
+## Terminal
+
++ [BUW but also cygwin] (https://medium.com/@jrcharney/bash-on-ubuntu-on-windows-the-almost-complete-set-up-1dd3cb89b794)
+
 ## Azure Functions
 
 + [Azure functions oficial blog](https://docs.microsoft.com/en-us/azure/azure-functions/)
