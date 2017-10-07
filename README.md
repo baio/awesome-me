@@ -25,6 +25,7 @@ Awesome resources
 ## Angular
 
 + [Elm SubActions + SubResucers](https://www.elm-tutorial.org/en/03-subs-cmds/02-commands.html)
++ [ionic + ngrx + packages](https://www.youtube.com/watch?v=9VpAXOz3Kn8)
 + [rxjs](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 + [ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/)
 
