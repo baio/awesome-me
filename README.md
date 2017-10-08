@@ -29,6 +29,14 @@ Awesome resources
 + [rxjs](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 + [ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/)
 
+## Angular packages
+
++ [packaging video](https://www.youtube.com/watch?v=unICbsPGFIA)
++ [package format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/edit)
++ [simple examp](https://github.com/jasonaden/simple-ui-lib)
++ [packaging guide](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
++ [complex example](https://github.com/angular/material2)
+
 ## JS
  
 + [js functional programming](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
