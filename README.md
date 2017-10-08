@@ -34,7 +34,7 @@ Awesome resources
 + [packaging video](https://www.youtube.com/watch?v=unICbsPGFIA)
 + [package format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/edit)
 + [simple examp](https://github.com/jasonaden/simple-ui-lib)
-+ [packaging guide](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
++ [multi platform packaging](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
 + [complex example](https://github.com/angular/material2)
 
 ## JS
