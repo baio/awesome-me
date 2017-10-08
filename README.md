@@ -28,6 +28,7 @@ Awesome resources
 + [ionic + ngrx + packages](https://www.youtube.com/watch?v=9VpAXOz3Kn8)
 + [rxjs](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 + [ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/)
++ [setup ng proj env, super concise video](https://www.youtube.com/watch?v=wj3dStoEhso)
 
 ## Angular packages
 
