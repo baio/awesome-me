@@ -29,6 +29,8 @@ Awesome resources
 + [rxjs](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 + [ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/)
 + [setup ng proj env, super concise video](https://www.youtube.com/watch?v=wj3dStoEhso)
++ [setup specs examp proj](https://github.com/victormejia/ngconf2017-test-demo)
++ [specs workshop](https://github.com/victormejia/angular-testing-workshop)
 
 ## Angular packages
 
